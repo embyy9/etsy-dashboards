@@ -1,0 +1,21 @@
+QUICK START GUIDE
+=================
+
+1. Extract this ZIP file to any folder
+2. Open "budget-dashboard.html" in your web browser (Chrome, Firefox, Safari, or Edge)
+3. Start adding your transactions — your data saves automatically!
+
+That's it! Your data is stored privately on your computer.
+No internet required after first load.
+
+TIPS:
+- Currency is auto-detected from your system locale (change in Settings if needed)
+- Create multiple profiles (Personal, Business, etc.) from the Settings panel
+- Use "Household" view to see combined data across all profiles
+- Set up recurring transactions (salary, rent, subscriptions) to auto-generate monthly
+- Use "Backup" to export ALL profiles' data as a single JSON file
+- Use "CSV" to export transactions (includes Profile column in Household view)
+- Use "Restore" to load a backup — supports both single and multi-profile formats
+- Click the moon icon for dark mode
+
+Need help? See README.txt for full documentation.
